@@ -1,0 +1,1 @@
+A collection of Data Structures and Algorithms implemented and practiced in C++. This repository covers fundamental DSA concepts, problem-solving techniques, algorithms, and common data structures, with practice programs organized by topic.
